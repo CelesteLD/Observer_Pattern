@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="gson-2.2.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/gson-2.2.2.jar" />
+      <root url="file://$USER_HOME$/Downloads/jar_files" />
+      <root url="file://$USER_HOME$/Downloads/jfreechart-1.0.1" />
+      <root url="file://$USER_HOME$/Downloads/jfreechart-1.0.1/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/jfreechart-1.0.1/source" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/gson-2.2.2.jar" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/jar_files" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/jfreechart-1.0.1" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/jfreechart-1.0.1/lib" recursive="false" />
+  </library>
+</component>
